@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @yshapkin
+Hi 👋, I’m @yshapkin 
